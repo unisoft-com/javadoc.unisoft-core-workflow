@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.unisoft.core.workflow"},{"l":"com.unisoft.core.workflow.engine"},{"l":"com.unisoft.core.workflow.event"},{"l":"com.unisoft.core.workflow.exception"},{"l":"com.unisoft.core.workflow.work"},{"l":"com.unisoft.core.workflow.work.exception"},{"l":"com.unisoft.core.workflow.work.predicate"}]

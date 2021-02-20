@@ -1,0 +1,7 @@
+com.unisoft.core.workflow
+com.unisoft.core.workflow.engine
+com.unisoft.core.workflow.event
+com.unisoft.core.workflow.exception
+com.unisoft.core.workflow.work
+com.unisoft.core.workflow.work.exception
+com.unisoft.core.workflow.work.predicate
